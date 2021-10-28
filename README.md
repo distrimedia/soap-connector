@@ -1,5 +1,8 @@
 # DistriMedia PHP Client
 
+## NOTICE
+IF YOU WISH TO MAKE USE OF THIS PACKAGE , PLEASE ALWAYS CONTACT DISTRIMEDIA IN ADVANCE PLEASE
+
 ## Introduction 
 This module provides PHP Services for the following SOAP calls:
 
@@ -34,7 +37,7 @@ This module provides PHP Services for the following SOAP calls:
     2. Status (`Startorder`, `Cancel`)
     
 ## Authors
- - Tristan Hofman <tristan@baldwin.be>
+ - Baldwin bv <info@baldwin.be>
  
 ## Testing
 1. copy `.env.dist` to `.env` and fill in your credentials. 

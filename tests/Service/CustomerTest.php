@@ -2,7 +2,7 @@
 /**
  *
  *
- *  NOTICE OF LICENSE
+ *  IF YOU WISH TO MAKE USE OF THIS PACKAGE , PLEASE ALWAYS CONTACT DISTRIMEDIA IN ADVANCE PLEASE
  *
  *  This source file is subject to the Open Software License (OSL 3.0)
  *  that is provided with Magento in the file LICENSE.txt.
@@ -17,7 +17,7 @@
  *
  *  @category  Baldwin
  *  @package  DistriMediaClient
- *  @author      Tristan Hofman <info@baldwin.be>
+ *  @author      Baldwin bv <info@baldwin.be>
  *  @copyright Copyright (c) 2020 Baldwin BV (https://www.baldwin.be)
  *  @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  *
@@ -50,7 +50,7 @@ class CustomerTest extends TestCase
         $customer->setAddress1("Dendermondsesteenweg 140c");
         $customer->setCity("Gent");
         $customer->setCountry("BE");
-        $customer->setEmail("tristan@baldwin.be");
+        $customer->setEmail("info@baldwin.be");
         $customer->setMobile("123456789");
         $customer->setPostcode1("9000");
 
